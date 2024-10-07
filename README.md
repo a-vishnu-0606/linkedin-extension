@@ -1,1 +1,1 @@
-#LinkedIn Connect All Chrome Extension
+# LinkedIn Connect All Chrome Extension
